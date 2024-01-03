@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luke News</title>
+</head>
+<body>
+    <header>
+        <h1>
+            Luke News
+        </h1>
+    </header>
+    <main>
+        <article>
+            <h3>
+                Governo do Japão retira o alerta de tsunami depois do terremoto de magnitude 7,6
+            </h3>
+            <p>
+                O primeiro ministro do país, <em>Fumio Kishida</em>, afirmou que, com a suspensão do alerta, tentarão restabelecer rotas marítimas
+                para chegar em áreas isoladas no norte da Península de Noto. <br>
+                Kishida afirmou ainda que cerca de mil integrantes das forças de autodefesa do país realizam operações de busca e resgate nas áreas
+                atingidas pelo terremoto.
+            </p>
+            <a href="https://g1.globo.com/mundo/noticia/2024/01/01/japao-tem-alerta-de-tsunami-apos-terremotos.ghtml"></a>
+        </article>
+    </main>
+    <footer>
+        <h3>
+            Nossas redes sociais:
+        </h3>
+            <ul>
+                <li>
+                    <a href="https://www.instagram.com/lulululucky_00/?next=%2F" Instagram></a>
+                </li>
+                <li>
+                    <a href="https://www.linkedin.com/in/luke-malaquias-lage-04022a232/" Linkedin></a>
+                </li>
+            </ul>
+    </footer>
+</body>
+</html>
