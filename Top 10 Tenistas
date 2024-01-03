@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Top 10 Melhores Tenistas</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Nome</th>
+                <th>Idade</th>
+                <th>Nacionalidade</th>
+                <th>Pontos no Raking</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th>Novak Djovic</th>
+                <th>36 anos</th>
+                <th>Sérvia</th>
+                <th>11,245</th>
+            </tr>
+            <tr>
+                <th>Carlos Alcaraz</th>
+                <th>20 anos</th>
+                <th>Espanha</th>
+                <th>8,855</th>
+            </tr>
+            <tr>
+                <th>Daniil Medvedv</th>
+                <th>27 anos</th>
+                <th>Rússia</th>
+                <th>7,600</th>
+            </tr>
+            <tr>
+                <th>Jannik Sinner</th>
+                <th>22 anos</th>
+                <th>Itália</th>
+                <th>6,490</th>
+            </tr>
+            <tr>
+                <th>Andrey Rublev</th>
+                <th>26 anos</th>
+                <th>Rússia</th>
+                <th>4,805</th>
+            </tr>
+            <tr>
+                <th>Stefanos Tsitsipas</th>
+                <th>25 anos</th>
+                <th>Grécia</th>
+                <th>4,235</th>
+            </tr>
+            <tr>
+                <th>Alexander Zverev</th>
+                <th>26 anos</th>
+                <th>Alemanha</th>
+                <th>3,985</th>
+            </tr>
+            <tr>
+                <th>Holger Rune</th>
+                <th>20 anos</th>
+                <th>Dinamarca</th>
+                <th>3,660</th>
+            </tr>
+            <tr>
+                <th>Hubert Hurkacz</th>
+                <th>26 anos</th>
+                <th>Polônia</th>
+                <th>3,245</th>
+            </tr>
+            <tr>
+                <th>Taylor Fritz</th>
+                <th>26 anos</th>
+                <th>Estados Unidos</th>
+                <th>3,100</th>
+            </tr>
+        </tbody>
+        <tfoot>
+            <td>Dados coletados em:</td>
+            <td>03 de fevereiro de 2023</td>
+        </tfoot>
+    </table>
+</body>
+</html>
