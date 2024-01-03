@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notícia do Dia</title>
+</head>
+<body>
+    <h1>
+        Horas após terremoto de magnitude 7,6, Japão tem alerta de Tsunami
+    </h1>
+    <h4>
+        Governo japonês emitiu alertas de <em>"grandes tsunamis"</em> com ondas de até <strong>5 metros</strong>, 
+        mas diminui o risco para 3 metros quatro horas depois. Rússia, Coreia do Norte e Coreia do Sul também estão
+        em alerta.
+    </h4>
+    <p>
+        O governo japonês emitiu nessa segunda-feira (1) um alerta para risco de tsunami na costa oeste do
+        país paós uma série de terremotos atingir a região, com o mais forte deles tendo uma magnitude de 7,6
+        segundo o serviço meteorológico japonês.
+    </p>
+    <p>
+        Por conta dos terremotos, Rússia, Coreia do Norte e Coreia do SUl também emitiram alertas de tsunami
+        em seus países.
+    </p>
+    <blockquote>
+        <p>
+            Segundo informações do governo local de Ishikawa, 4 pessoas morreram. Um homem morreu ao ficar preso 
+            em escombros de um prédio que desabou, segundo a rede de TV japonesa NTV.
+        </p>
+    </blockquote>
+    <p>
+        O terremoto mais forte, de magnitude 7,6, ocorreu na cidade de <strong> Anamizu, na região de Ishikawa, 
+        na costa oeste do Japão</strong>, por volta das 16h10 do horário local (4h10 no horário Brasília)
+    </p>
+    <h5> Fonte:
+        <a href="https://g1.globo.com/mundo/noticia/2024/01/01/japao-tem-alerta-de-tsunami-apos-terremotos.ghtml">
+            G1 sobre o terremoto no Japão
+        </a>
+    </h5>
+</body>
+</html>
