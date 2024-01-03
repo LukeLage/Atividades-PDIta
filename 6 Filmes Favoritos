@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galeria de Filmes Favoritos</title>
+</head>
+<body>
+    <header>
+        <h1>Galeria de Filmes Favoritos</h1>
+        <h3>Muito prazer, meu nome é Luke e aqui vou lhes apresentar seis de meus filmes favoritos!</h3>
+    </header>
+    <body>
+        <article>
+            <h2>Jogos Vorazes, a saga</h2>
+            <p>
+                <img src="https://classic.exame.com/wp-content/uploads/2023/11/jogos-vorazes-1.jpg?quality=70&strip=info&w=1024" alt="Jennifer Lawrence com a armadura
+                de tordo do filme Jogos Vorazes a Esperança, em uma versão vermelha, sentada em um trono branco">
+            </p>
+            <p>
+                Um dos meus filmes favoritos, que, inclusive, eu tenho uma tatuagem para ele, um tordo no antebraço direito. <br>
+                Para mim, é um filme ótimo, com uma critica anti guerra e totalitarismo muito bem formada, além de ser muito fielmente (<em>tirando algumas gafes</em>) 
+                adaptado dos livros.
+            </p>
+            <p>
+                <a href="https://pt.wikipedia.org/wiki/The_Hunger_Games_(série_de_filmes)">
+                    Página da Wikipedia de Jogos Vorazes
+                </a>
+            </p>
+            <br><br>
+        </article>
+        <article>
+            <h2>Não Olhe Para Cima</h2>
+            <p>
+                <img src="https://th.bing.com/th/id/R.5b16fe99d51652d45f59256c440e25ad?rik=axBub6Jo%2b2%2frfw&pid=ImgRaw&r=0" alt="Leonardo DiCaprio e Jennifer Lawrence em um fundo vermelho
+                com os dizeres Dont Look Up">
+            </p>
+            <p>
+                Um filme de comédia incrível com uma ótima critica ao negacionismo em geral, mas principalmente àquele que aconteceu durante a pandemia de Covid19, é um dos meus filmes 
+                favoritos tanto pela leveza que ele trás sua crítica, quanto por ele ser realmente muito engraçado, quanto por ter uma das minhas atrizes favoritas nele, Jennifer Lawrence.
+            </p>
+            <p>
+                <a href="https://pt.wikipedia.org/wiki/Don%27t_Look_Up">
+                    Página da Wikipedia de Não Olhe Para Cima
+                </a>
+            </p>
+            <br><br>
+        </article>
+        <article>
+            <h2>The Purge, a saga</h2>
+            <p>
+            <img src="https://th.bing.com/th/id/R.9980e90e11509411971e32441c2565be?rik=Jr7IeUPvkCY2rw&pid=ImgRaw&r=0" alt="Uma pessoa em um pôr do sol, segurando uma máscara branca, manchada de
+            sangue, com GOD escrito em letras garrafais e escrito The Purge">
+            </p>
+            <p>
+                Um filme de terror e ação muito bom, ao todo, são cinco filmes e uma série de televisão, se passa em versão distópia dos EUA onde, uma vez por ano há o expurgo, um momento
+                que, durante doze horas, todos os crimes, inclusive assassinato, são legais e não há serviços de emergência como polícia ou ambulância.
+            </p>
+            <p>
+                <a href="https://pt.wikipedia.org/wiki/The_Purge_(franquia)">
+                    Página da Wikipedia de The Purge
+                </a>
+            </p>
+            <br><br>
+        </article>
+        <article>
+            <h2>Céu Vermelho Sangue</h2>
+            <p>
+                <img src="https://br.web.img2.acsta.net/pictures/21/06/30/10/52/3410936.jpg" alt="Uma mãe segurando seu filho em um avião, com sua forma vampira aparecendo pela janela do avião
+                escrito em letras vermelhos está Blood Red Sky">
+            </p>
+            <p>
+                Um filme de terror e ação onde uma mãe que parece sofrer de leucemia tem que sair da Alemanha com seu filho para os EUA fazer um tratamento lá, mas, na verdade, ela é infectada
+                com vampirismo e precisa tomar algumas doses de um supressor de vampiros par não deixar a maldição tomar conta dela e a fazer perder completamente a cabeça, porém, no meio disso,
+                seu avião é invadido por terroristas. <br>
+                O filme é muito bom, até divertido de tão estranho, porém o final me decepcionou muito, mas também não tinha muito para onde fugir. Porém, ainda assim, poderia ser melhor.
+            </p>
+            <p>
+                <a href="https://pt.wikipedia.org/wiki/Blood_Red_Sky">
+                    Página da Wikipedia de Céu Vermelho Sangue
+                </a>
+            </p> 
+            <br><br>
+        </article>
+        <article>
+            <h2>A Bela e a Fera de 2017</h2>
+            <p>
+                <img src="https://th.bing.com/th/id/OIP.Gz2fjClh470mUDOcBOzCxQHaKj?rs=1&pid=ImgDetMain" alt="Um fundo de um céu noturno com diversas pessoas e uma fera na frente, nele está escrito
+                A Bela e a Fera">
+            </p>
+            <p>
+                Um filme do famoso conto A Bela e a Fera, mas essa é uma das minhas versões favoritas, tanto pelas músicas, quanto por outra de minhas atrizes favoritas estar aqui, Emma Watson.
+            </p>
+            <p>
+                <a href="https://pt.wikipedia.org/wiki/Beauty_and_the_Beast_(filme_de_2017)">
+                    Página da Wikipedia de A Bela e a Fera
+                </a>
+            </p>
+        </article>
+        <article>
+            <h2>STar Wars, a saga</h2>
+            <p>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/413px-Star_Wars_Logo.svg.png" alt="Um fundo preto com Star Wars escrito em amarelo">
+            </p>
+            <p>
+                Esse filme clássico não poderia faltar, até porque uma das razões do meu nome vem daqui! <br>
+                Uma grande saga feita pelo George Lucas que começou em 1977, simplesmente ótima!
+            </p>
+            <p>
+                <a href="https://pt.wikipedia.org/wiki/Star_Wars">
+                    Página da Wikipedia de Star Wars
+                </a>
+            </p>
+        </article>
+    </body>
+</body>
+</html>
