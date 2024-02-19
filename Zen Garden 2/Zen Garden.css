@@ -1,0 +1,39 @@
+body{
+    background-color: #C7A2E1;
+    font-family: sans-serif;
+    width: 1300px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+
+h1{
+    color: #D9E0A2;
+    font-size: 1.8rem;
+}
+
+h3{
+    color: #878B68;
+    font-size: 1.2rem;
+}
+
+h2{
+    font-size:1.4rem;
+}
+
+p{
+    text-indent: 1em;
+}
+
+h1, h2, h3{
+    text-align: center;
+}
+
+.sumarry{
+    text-align: justify;
+}
+
+.main supporting{
+    line-height: 1.5px;
+}
