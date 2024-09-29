@@ -1,0 +1,52 @@
+body {
+    width: 80%; 
+    max-width: 1280px; 
+    margin: 0 auto; 
+}
+.intro {
+    height: 550px; 
+}
+
+#design-archives {
+    display: none; 
+}
+
+header {
+    background-color: #333; 
+    color: #fff;
+    padding: 1em; 
+}
+
+header h1, header h2 {
+    display: inline-block; 
+    margin-right: 1em;
+}
+
+header h1 {
+    margin-left: 1em; 
+}
+
+.sidebar {
+    list-style-type: none; 
+    padding: 0; 
+}
+
+.sidebar li {
+    margin: 1em 0; 
+    text-align: center; 
+}
+
+footer {
+    background-color: #222; 
+    color: #fff; 
+    padding: 1em 0; 
+    margin: 4% 0; 
+}
+
+footer a {
+    border: 2px solid #fff; 
+    padding: 0.5em; 
+    color: #fff; 
+    text-decoration: none; 
+}
+
