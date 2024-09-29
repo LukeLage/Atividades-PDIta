@@ -1,0 +1,48 @@
+
+.benefits {
+    display: flex; 
+    align-items: center; 
+    border-top: 2px solid #ccc;
+    border-bottom: 2px solid #ccc; 
+}
+
+.benefits p {
+    width: 70%; 
+}
+
+.benefits h3{
+    width: 30%; 
+    display: flex;
+    justify-content: center; 
+}
+
+.participation {
+    display: flex; 
+    border-top: 2px solid #ccc; 
+}
+
+.participation p {
+    width: 50%; 
+    display: flex; 
+    align-items: center;
+    justify-content: center; 
+}
+
+
+footer {
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+    flex-wrap: wrap; 
+    margin: 4% 0; 
+}
+
+footer a {
+    border: 2px solid #fff; 
+    padding: 0.5em; 
+    color: #fff; 
+    text-decoration: none; 
+    width: 150px; 
+    text-align: center; 
+    margin: 0.5em; 
+}
