@@ -1,0 +1,28 @@
+a{
+    font-weight: bold;
+    color: rgb(114, 22, 114);
+}
+
+a:hover{
+    color: rgb(44, 9, 44);
+}
+
+a:visited{
+    font-weight: 100;
+}
+
+.main-supporting p:first-of-type::first-letter {
+    font-size: 3em; 
+    font-family: arial, sans-serif; 
+    float: left; 
+    margin-right: 0.1em; 
+}
+
+.design-selection li {
+    border-top: 1px solid #000000; 
+    padding: 10px 0;
+}
+
+.design-selection li:last-child {
+    border-bottom: 1px solid #000000; 
+}
